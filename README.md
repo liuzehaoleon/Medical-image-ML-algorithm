@@ -1,2 +1,2 @@
 # Medical-image-ML-algorithm
-Random Forest + NLP + CNN
+Random Forest + MLP + CNN
